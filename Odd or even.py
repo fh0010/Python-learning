@@ -2,6 +2,6 @@
 num = float(input("Please enter 1 ~ 1000 \n: "))
 
 if (num%2)== 0 :
-    print("True")
+    print("Even")
 else:
-    print("False")
+    print("Odd")
