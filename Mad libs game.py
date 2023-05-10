@@ -1,3 +1,4 @@
+#使用者輸入任何字，它可以是名詞、形容詞、動詞、代名詞等。程式得到文字後，可自行排列，組成成一個故事。
 print("Here's an Mad Libs story for you to fill in : \nTitle: The [adjective] [noun] [verb] to the [adjective] [noun]")
 adj = input("Enter your first adjective here : ")
 adj1 = input("Enter your second adjective here : ")
