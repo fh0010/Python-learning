@@ -1,4 +1,5 @@
 #請用戶輸入 Email 地址，然後判斷它是自定義域名還是熱門域名。
+
 print("Email slicer \n")
 
 provider = {"gmail":"Google", "hotmail":"Microsoft", "yahoo":"Yahoo", "outlook":"Microsoft"}
